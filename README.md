@@ -1,5 +1,6 @@
 # DYNAMIC Fire risk indicator implementation
 
+
 This repository contains the implementation of the dynamic fire risk indicator described in the submitted paper:
 
 R.D: Strand and L.M. Kristensen. *An implementation, evaluation and validation of a dynamic fire and conflagration risk indicator for wooden homes*. Submitted for review.
